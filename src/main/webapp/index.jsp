@@ -4,8 +4,7 @@
 </head>
 <body>
 <h1 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
-    Welcome to Social Prachar by bhuvi"
-    good morning
+    welcome to Devops deployment using jenkins
 </h1>
 </body>
 </html>
